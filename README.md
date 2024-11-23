@@ -119,8 +119,8 @@ If you have any questions, issues, or feature requests, please open an issue or 
 
 **Edson Araujo**
 
-- GitHub: [@yourusername](https://github.com/edson-araujo)
-- LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/edson-alves-araujo/))
+- GitHub: [@edson-araujo](https://github.com/edson-araujo)
+- LinkedIn: [Edson Araújo]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/edson-alves-araujo/))
 
 ---
 
